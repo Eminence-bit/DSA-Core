@@ -1,12 +1,12 @@
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
         Freq = defaultdict(int)
-        for i in range(len(ransomNote)):
-            Freq[ransomNote[i]]+=1
+        for i in ransomNote:
+            Freq[i]+=1
         Freq2 = defaultdict(int)
-        for i in range(len(magazine)):
-            Freq2[magazine[i]]+=1
-        for i in range(len(ransomNote)):
-            if Freq[ransomNote[i]]>Freq2[ransomNote[i]]:
+        for i in magazine:
+            Freq2[i]+=1
+        for i in ransomNote:
+            if Freq[i]>Freq2[i]:
                 return False
         return True

@@ -25,8 +25,8 @@ The goal is not just to solve problems, but to solve them *optimally* with **rea
 | 2  | Best Time to Buy and Sell Stock        | Kadane’s         | ✅      | [LC #121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) |
 | 3  | Contains Duplicate                     | HashSet          | ✅      | [LC #217](https://leetcode.com/problems/contains-duplicate) |
 | 4  | Intersection of Two Arrays             | Set Operations   | ✅      | [LC #349](https://leetcode.com/problems/intersection-of-two-arrays) |
-| 5  | Running Sum of 1D Array                | Prefix Sum       | ⬜      | [LC #1480](https://leetcode.com/problems/running-sum-of-1d-array) |
-| 6  | Valid Anagram                          | Sorting/HashMap  | ⬜      | [LC #242](https://leetcode.com/problems/valid-anagram) |
+| 5  | Running Sum of 1D Array                | Prefix Sum       | ✅      | [LC #1480](https://leetcode.com/problems/running-sum-of-1d-array) |
+| 6  | Valid Anagram                          | Sorting/HashMap  | ✅      | [LC #242](https://leetcode.com/problems/valid-anagram) |
 | 7  | Ransom Note                            | HashMap          | ⬜      | [LC #383](https://leetcode.com/problems/ransom-note) |
 | 8  | Reverse String                         | Two Pointers     | ⬜      | [LC #344](https://leetcode.com/problems/reverse-string) |
 

@@ -18,3 +18,7 @@ Track:
 - Time: O(n), Space: O(1)
 
 ## 💡 This is Kadane's, adapted to tracking **max difference**
+
+## ✅ Code
+
+See [`solution.py`](./optimal.py)

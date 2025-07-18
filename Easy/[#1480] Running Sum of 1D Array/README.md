@@ -23,3 +23,7 @@ This is a prefix sum — each index stores the sum of all previous elements.
 - Subarray sums
 - Range queries
 - Preprocessing for DP
+
+## ✅ Code
+
+See [`solution.py`](./optimal.py)

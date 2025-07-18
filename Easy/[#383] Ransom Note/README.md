@@ -29,3 +29,7 @@ Return True if you can construct `ransomNote` using letters from `magazine`.
 - Decrease while iterating `ransomNote`
 - Return False if any count goes negative
 - Time: O(n + m)
+
+## ✅ Code
+
+See [`solution.py`](./optimal.py)

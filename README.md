@@ -36,8 +36,8 @@ The goal is not just to solve problems, but to solve them *optimally* with **rea
 
 | #  | Problem                                | Topic             | Status | Link |
 |----|----------------------------------------|--------------------|--------|------|
-| 9  | 3Sum                                   | Two Pointers       | ⬜      | [LC #15](https://leetcode.com/problems/3sum) |
-| 10 | Container With Most Water              | Two Pointers       | ⬜      | [LC #11](https://leetcode.com/problems/container-with-most-water) |
+| 9  | 3Sum                                   | Two Pointers       | ✅      | [LC #15](https://leetcode.com/problems/3sum) |
+| 10 | Container With Most Water              | Two Pointers       | ✅      | [LC #11](https://leetcode.com/problems/container-with-most-water) |
 | 11 | Longest Substring Without Repeating    | Sliding Window     | ⬜      | [LC #3](https://leetcode.com/problems/longest-substring-without-repeating-characters) |
 | 12 | Minimum Size Subarray Sum              | Sliding Window     | ⬜      | [LC #209](https://leetcode.com/problems/minimum-size-subarray-sum) |
 | 13 | Longest Repeating Character Replacement| Sliding Window     | ⬜      | [LC #424](https://leetcode.com/problems/longest-repeating-character-replacement) |

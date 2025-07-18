@@ -15,3 +15,7 @@
 - Time: O(n)
 - Space: O(n)
 - Idea: Use dictionary to store seen values
+
+## ✅ Code
+
+See [`solution.py`](./optimal.py)

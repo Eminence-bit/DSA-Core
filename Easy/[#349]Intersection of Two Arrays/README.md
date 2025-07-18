@@ -15,3 +15,7 @@
 ## 🧠 Key Insight
 
 Set operations like intersection are the most efficient way to handle uniqueness + membership.
+
+## ✅ Code
+
+See [`solution.py`](./optimal.py)

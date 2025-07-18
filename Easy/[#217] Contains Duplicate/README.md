@@ -18,3 +18,7 @@ Return `True` if any value appears at least twice in the array.
 
 - Avoid brute force: `list.count()` or nested loops = O(n²)
 - Sorting + linear check is O(n log n) and less readable
+
+## ✅ Code
+
+See [`solution.py`](./optimal.py)

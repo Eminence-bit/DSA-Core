@@ -18,3 +18,7 @@ Check if two strings are anagrams (same letters, same count).
 
 - Use `defaultdict` for easy frequency tracking
 - Efficient for large inputs or advanced variants
+
+## ✅ Code
+
+See [`solution.py`](./optimal.py)

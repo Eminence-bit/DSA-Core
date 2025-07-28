@@ -1,4 +1,4 @@
-# DSA-Core-Week1
+# DSA-Core
 
 ## 📌 Purpose
 This repository contains my focused 7-day drill to build deep mastery of core **Data Structures and Algorithms** concepts using **algorithm-first thinking**.  
@@ -8,7 +8,7 @@ The goal is not just to solve problems, but to solve them *optimally* with **rea
 
 ## 🎯 Weekly Goal
 - 📅 **Start Date:** July 16, 2025
-- ⏱️ **End Date:** July 22, 2025
+- ⏱️ **End Date:** July 28, 2025
 - 🧮 **Target:** Solve **30 problems**
 - 🧠 **Rule:** No brute-only solutions. If brute is used, optimal must follow.
 - 📁 **Organization:** Easy / Medium / Hard directories with problem-specific folders

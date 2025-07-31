@@ -7,10 +7,8 @@ The goal is not just to solve problems, but to solve them *optimally* with **rea
 
 ---
 
-## 🎯 Weekly Goal
+## 🎯 Goal
 
-- 📅 **Start Date:** July 16, 2025
-- ⏱️ **End Date:** July 28, 2025
 - 🧮 **Target:** Solve **30 problems**
 - 🧠 **Rule:** No brute-only solutions. If brute is used, optimal must follow.
 - 📁 **Organization:** Easy / Medium / Hard directories with problem-specific folders
